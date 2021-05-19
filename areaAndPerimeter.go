@@ -15,9 +15,9 @@ func main() {
   // input
   fmt.Println("This program finds the area and perimeter of a rectangle")
   fmt.Println()
-  fmt.Print("Enter the length: ")
+  fmt.Print("Enter the length (mm): ")
   fmt.Scanln(&length)
-  fmt.Println("Enter the width: ")
+  fmt.Println("Enter the width (mm): ")
   fmt.Scanln(&width)
 
   // output
